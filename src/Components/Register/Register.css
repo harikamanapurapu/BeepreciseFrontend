@@ -1,0 +1,131 @@
+.signup-main-modal{
+    position: absolute;
+    width: 450px;
+    height: 400px;
+    top: 150px;
+    left: 400px;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0px 4px 30px 0px hsla(0, 0%, 10%, 0.25);  
+}
+.signup-modal{
+    margin-top: 40px;
+    width: 400px;
+    height: 20px;
+    font-family: DM Sans;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+}
+
+.signup-form-modal{
+    width: 500px;
+    height: 224px;
+}
+
+.email-box-signup-modal{
+    display: flex;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.email-logo-modal{
+    width: 99px;
+    height: 26px;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    margin-right: 25px;
+}
+.email-input-modal{
+    width: 245px;
+    height: 35px;
+    border: 1px solid hsla(0, 0%, 0%, 1);
+    font-family: DM Sans;
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 5px;
+}
+
+.password-box-signup-modal{
+    display: flex;
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+.password-logo-modal{
+    width: 99px;
+    height: 26px;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    margin-right: 25px;
+
+
+}
+.password-input-modal{
+    width: 245px;
+    height: 35px;
+    border: 1px solid hsla(0, 0%, 0%, 1);
+    font-family: DM Sans;
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 5px;
+
+}
+.signup-btn-modal{
+    position: absolute;
+    width: 129px;
+    height: 45px;
+    top: 325px;
+    left: 160px;
+    border: none;
+    border-radius: 20px;
+    background: hsla(216, 100%, 73%, 1);
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+
+}
+.eye{
+    position: absolute;
+    width: 22px;
+    height: 15px;
+    top: 190px;
+    left: 360px;
+}
+.close{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    left: 380px;
+    color: hsla(0, 100%, 50%, 1);
+    border: 2px solid  hsla(0, 100%, 50%, 1) ;
+    border-radius: 70px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.login{
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    width: 300px;
+    height: 16px;
+    top: 270px;
+    left: 100px;
+    color:black;
+
+}
+
