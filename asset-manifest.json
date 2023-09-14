@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BeepreciseFrontend/static/css/main.ffe34ec7.css",
+    "main.js": "/BeepreciseFrontend/static/js/main.fc9ebb49.js",
+    "index.html": "/BeepreciseFrontend/index.html",
+    "main.ffe34ec7.css.map": "/BeepreciseFrontend/static/css/main.ffe34ec7.css.map",
+    "main.fc9ebb49.js.map": "/BeepreciseFrontend/static/js/main.fc9ebb49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.fc9ebb49.js"
+  ]
+}
